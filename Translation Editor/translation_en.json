@@ -81,7 +81,7 @@
 				"Sleep",
 				"temp"
 			],
-			"desc": "Sleep Temperature <C>"
+			"desc": "Sleep Temperature"
 		},
 		"SleepTimeout": {
 			"text": "STME",
@@ -105,7 +105,7 @@
 				"Motion",
 				"sensitivity"
 			],
-			"desc": "Motion Sensitivity <0.Off 1.least sensitive 9.most sensitive>"
+			"desc": "Motion Sensitivity <0=Off 1=Least sensitive 9=Most sensitive>"
 		},
 		"TemperatureUnit": {
 			"text": "TMPUNT",
@@ -121,7 +121,7 @@
 				"Detailed",
 				"idle screen"
 			],
-			"desc": "Display detailed information in a smaller font on the idle screen."
+			"desc": "Display detailed information in a smaller font on the idle screen"
 		},
 		"DisplayRotation": {
 			"text": "DSPROT",
@@ -129,7 +129,7 @@
 				"Display",
 				"orientation"
 			],
-			"desc": "Display Orientation <A. Automatic L. Left Handed R. Right Handed>"
+			"desc": "Display Orientation <A=Automatic L=Left Handed R=Right Handed>"
 		},
 		"BoostEnabled": {
 			"text": "BOOST",
@@ -137,7 +137,7 @@
 				"Boost mode",
 				"enabled"
 			],
-			"desc": "Enable front key enters boost mode 450C mode when soldering"
+			"desc": "Enable front button \"Boost\" mode when soldering"
 		},
 		"BoostTemperature": {
 			"text": "BTMP",
@@ -145,7 +145,7 @@
 				"Boost",
 				"temp"
 			],
-			"desc": "Temperature when in \"boost\" mode"
+			"desc": "Temperature when in \"Boost\" mode"
 		},
 		"AutoStart": {
 			"text": "ASTART",
@@ -161,7 +161,7 @@
 				"Cooldown",
 				"blink"
 			],
-			"desc": "Blink the temperature on the cooling screen while the tip is still hot."
+			"desc": "Blink the temperature on the cooling screen while the tip is still hot"
 		},
 		"TemperatureCalibration": {
 			"text": "TMP CAL?",
@@ -169,7 +169,7 @@
 				"Calibrate",
 				"temperature?"
 			],
-			"desc": "Calibrate tip offset."
+			"desc": "Calibrate tip offset"
 		},
 		"SettingsReset": {
 			"text": "RESET?",
